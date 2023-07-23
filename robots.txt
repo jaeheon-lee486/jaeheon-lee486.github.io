@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jaeheon-lee486.github.io/jaeheon-lee486//sitemap.xml
+Sitemap: https://jaeheon-lee486.github.io/sitemap.xml
