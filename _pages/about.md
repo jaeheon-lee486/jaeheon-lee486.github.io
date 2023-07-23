@@ -19,8 +19,14 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+At [KAIST](http://kaist.ac.kr), I am currently pursuing a double major in biology and computer science, with a keen interest in exploring diverse academic domains. My fascination lies in comprehending the intricacies of the brain and seeking mechanisms to shed light on ambiguous concepts in neuroscience like thinking, dreaming, and memory. Recently, I have been particularly captivated by studying mathematics.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Currently, I'm working with [DeepBio](http://deepbio.co.kr), an AI histopathology startup, where I engage with cutting-edge technologies to revolutionize histopathological analysis. Through this role, I delve into the fascinating world of AI applications in histopathology and contribute to advancing medical diagnostics.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In terms of interpersonal connections, I thrive in fostering meaningful relationships within open networks and engaging with individuals from diverse backgrounds. Building connections and collaborating with like-minded enthusiasts enriches my journey and amplifies the impact of my endeavors.
+
+During my leisure time, I find solace in leisurely walks, exploring uncharted territories that invigorate my mind and foster creativity. The allure of unexplored domains beckons me, driving my passion for understanding the workings of the brain and making neuroscience accessible to all.
+
+Thank you for visiting my GitHub page, where I share my pursuits and discoveries. Let's embark on this intellectual adventure together, where endless possibilities await exploration.
+
+Best regards, JaeHeon Lee
