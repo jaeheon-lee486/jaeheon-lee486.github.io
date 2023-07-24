@@ -23,7 +23,6 @@ module ExternalPosts
             doc.data['external_source'] = src['name'];
             doc.data['feed_content'] = e.content;
             doc.data['title'] = "#{e.title}";
-            doc.data['description'] = e.summary;
             doc.data['date'] = e.published;
             doc.data['redirect'] = e.url;
             site.collections['posts'].docs << doc
