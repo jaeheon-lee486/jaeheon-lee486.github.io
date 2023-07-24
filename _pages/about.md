@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: :)
+subtitle: 🧠📚💻🏃🏻🌹
 
 profile:
   align: right
   image: fall_prof.JPG
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Siheung, South Korea</p>
+    <p> </p>
 
 news: false  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
