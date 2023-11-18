@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-At [KAIST](http://kaist.ac.kr), I am currently pursuing a double major in biology and computer science, with a keen interest in exploring diverse academic domains. My fascination lies in comprehending the intricacies of the brain and seeking mechanisms to shed light on ambiguous concepts in neuroscience like thinking, dreaming, and memory. Recently, I have been particularly captivated by studying mathematics.
+At [KAIST](http://kaist.ac.kr), I am currently pursuing a double major in biology and computer science, with a keen interest in exploring diverse academic domains. My fascination lies in comprehending the intricacies of the brain and seeking mechanisms to shed light on ambiguous concepts in neuroscience like thinking, dreaming, and memory. Recently, I have been particularly captivated by studying [mathematics](https://velog.io/@jaeheon-lee/series/Math).
 
 Currently, I'm working with [DeepBio](http://deepbio.co.kr), an AI histopathology startup, where I engage with cutting-edge technologies to revolutionize histopathological analysis. Through this role, I delve into the fascinating world of AI applications in histopathology and contribute to advancing medical diagnostics.
 
