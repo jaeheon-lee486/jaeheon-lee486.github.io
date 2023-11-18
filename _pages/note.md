@@ -1,7 +1,7 @@
 ---
-layout: cv
-permalink: /cv/
-title: cv
+layout: page
+permalink: /notes/
+title: note
 nav: true
 nav_order: 4
 cv_pdf: example_pdf.pdf
