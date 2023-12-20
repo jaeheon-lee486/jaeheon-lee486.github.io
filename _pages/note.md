@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 permalink: /notes/
 title: note
 nav: true
