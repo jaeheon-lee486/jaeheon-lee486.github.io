@@ -25,6 +25,6 @@ In terms of interpersonal connections, I thrive in fostering meaningful relation
 
 During my leisure time, I find solace in leisurely walks, exploring uncharted territories that invigorate my mind and foster creativity. The allure of unexplored domains beckons me, driving my passion for understanding the workings of the brain and making neuroscience accessible to all.
 
-Thank you for visiting my Github page, where I share my pursuits and discoveries. Let's embark on this intellectual adventure together, where endless possibilities await exploration.
+Thank you for visiting my GitHub page, where I share my pursuits and discoveries. Let's embark on this intellectual adventure together, where endless possibilities await exploration.
 
 Best regards, JaeHeon Lee
