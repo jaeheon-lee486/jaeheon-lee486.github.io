@@ -6,7 +6,7 @@ subtitle: 🧠📚💻🏃🏻🌹😄
 
 profile:
   align: right
-  image: prof_0325.JPG
+  image: prof_0325.jpeg
   image_circular: false # crops the image to make it circular
   address: >
     <p> </p>
