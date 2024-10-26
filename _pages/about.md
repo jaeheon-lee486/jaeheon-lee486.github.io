@@ -17,14 +17,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-At [KAIST](http://kaist.ac.kr), my studies span across Biology, Artificial Intelligence, and Electrical Engineering, forming a multidisciplinary foundation for my deep interest in computational neuroscience. This unique combination of fields guides my quest to unravel the complexities of the brain, including deciphering the mechanisms of neural information encoding and processing, and exploring aspects of cognitive uncertainty. Recently, my academic journey has led me to dive into [mathematics](https://velog.io/@jaeheon-lee/series/Math), further enriching my understanding of the intricate interplay between brain function and computational models.
+At [KAIST](http://kaist.ac.kr), I majored in Biology, AI, and Electrical Engineering, building a foundation in computational neuroscience. I'm interested in understanding neural information encoding and cognitive uncertainty — especially in how different pieces of information come together and compose layers of complexity. I've also studied [mathematics](https://velog.io/@jaeheon-lee/series/Math) by watching a [YouTube](https://www.youtube.com/@enjoyingmath9346) channel. 
 
-As a participant in [Korea's mandatory Industrial Technical Personnel program](https://en.wikipedia.org/wiki/Supplementary_service_in_South_Korea), I've embraced the opportunity to expand my horizons at [DeepBio](http://deepbio.co.kr), a leading AI histopathology startup. This role, while a shift from my central academic pursuits, has offered me a unique platform to experience the innovative world of AI applications in medical diagnostics. (2022.03-2024.02)
+I interned in [Min Whan Jung's lab](https://sites.google.com/site/systemsneurolaboratory/) for two months, assisting with rat experiments involving training and surgical procedures. Following that, I spent 1.5 years in [Sang Wan Lee's lab](https://aibrain.kaist.ac.kr/) working on a simple RL project and analyzing error signal propagation in fMRI using MVPA. I also worked as a data scientist and a participant in [Korea's mandatory ITP program](https://en.wikipedia.org/wiki/Supplementary_service_in_South_Korea) for two years at [DeepBio](http://deepbio.co.kr), an AI histopathology startup. Currently, I'm part of [Yul HR Kang's lab](https://yulkanglab.org/), focusing on psychophysics and human uncertainty, while also working in [Cristina Savin's lab](https://csavin.wixsite.com/savinlab/research) at NYU on a project related to compositional learning.
 
-In terms of interpersonal connections, I thrive in fostering meaningful relationships within open networks and engaging with individuals from diverse backgrounds. Building connections and collaborating with like-minded enthusiasts enriches my journey and amplifies the impact of my endeavors.
+I'm planning to apply for a PhD program in the U.S. next year, with the goal of starting in 2026.
 
-During my leisure time, I find solace in leisurely walks, exploring uncharted territories that invigorate my mind and foster creativity. The allure of unexplored domains beckons me, driving my passion for understanding the workings of the brain and making neuroscience accessible to all.
-
-Thank you for visiting my GitHub page, where I share my pursuits and discoveries. Let's embark on this intellectual adventure together, where endless possibilities await exploration.
+Thank you for visiting my GitHub page, where I share my pursuits and discoveries.
 
 Best regards, JaeHeon Lee
